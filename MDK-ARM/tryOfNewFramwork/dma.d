@@ -35,3 +35,10 @@ tryofnewframwork\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex
 tryofnewframwork\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 tryofnewframwork\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 tryofnewframwork\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+tryofnewframwork\dma.o: ../Inc/adc.h
+tryofnewframwork\dma.o: ../Inc/main.h
+tryofnewframwork\dma.o: ../Inc/can.h
+tryofnewframwork\dma.o: ../Inc/dma.h
+tryofnewframwork\dma.o: ../Inc/tim.h
+tryofnewframwork\dma.o: ../Inc/usart.h
+tryofnewframwork\dma.o: ../Inc/gpio.h

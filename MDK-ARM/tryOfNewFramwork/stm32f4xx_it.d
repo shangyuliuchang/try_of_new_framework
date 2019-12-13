@@ -34,4 +34,11 @@ tryofnewframwork\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_h
 tryofnewframwork\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 tryofnewframwork\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 tryofnewframwork\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/adc.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/main.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/can.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/dma.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/tim.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/usart.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/gpio.h
 tryofnewframwork\stm32f4xx_it.o: ../Inc/stm32f4xx_it.h

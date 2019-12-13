@@ -1,6 +1,0 @@
---c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include
--I E:\project\rm2020\keil\tryOfNewFramwork\MDK-ARM\RTE
--I D:\program\keil5_mdk\keil5_install\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
--I D:\program\keil5_mdk\keil5_install\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
--D__UVISION_VERSION="518" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx
--o tryofnewframwork\main.o --omf_browse tryofnewframwork\main.crf --depend tryofnewframwork\main.d "../Src/main.c"
