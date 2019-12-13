@@ -38,6 +38,7 @@ extern "C" {
 #include "tim.h"
 #include "usart.h"
 #include "gpio.h"
+#include "pid.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
@@ -64,10 +65,23 @@ void Error_Handler(void);
 
 /* Private defines -----------------------------------------------------------*/
 /* USER CODE BEGIN Private defines */
-struct motor_receive;
-struct motor_transmit;
-struct judge_receive;
-struct judge_transmit;
+typedef struct{
+	float for_compile;
+}motor_receive_struct;
+typedef struct{
+	float for_compile;
+}motor_transmit_struct;
+typedef struct{
+	float for_compile;
+}judge_receive_struct;
+typedef struct{
+	float for_compile;
+}judge_transmit_struct;
+
+extern motor_receive_struct motorReceive;
+extern motor_transmit_struct motorTransmit;
+extern judge_receive_struct judgeReceive;
+extern judge_transmit_struct judgeTransmit;
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus

@@ -42,3 +42,4 @@ tryofnewframwork\can.o: ../Inc/dma.h
 tryofnewframwork\can.o: ../Inc/tim.h
 tryofnewframwork\can.o: ../Inc/usart.h
 tryofnewframwork\can.o: ../Inc/gpio.h
+tryofnewframwork\can.o: ../Inc/pid.h

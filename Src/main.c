@@ -66,18 +66,10 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-typedef struct{
-	
-}motor_receive;
-typedef struct{
-	
-}motor_transmit;
-typedef struct{
-	
-}judge_receive;
-typedef struct{
-	
-}judge_transmit;
+motor_receive_struct motorReceive;
+motor_transmit_struct motorTransmit;
+judge_receive_struct judgeReceive;
+judge_transmit_struct judgeTransmit;
 /* USER CODE END 0 */
 
 /**

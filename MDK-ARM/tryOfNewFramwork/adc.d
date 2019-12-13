@@ -42,3 +42,4 @@ tryofnewframwork\adc.o: ../Inc/dma.h
 tryofnewframwork\adc.o: ../Inc/tim.h
 tryofnewframwork\adc.o: ../Inc/usart.h
 tryofnewframwork\adc.o: ../Inc/gpio.h
+tryofnewframwork\adc.o: ../Inc/pid.h

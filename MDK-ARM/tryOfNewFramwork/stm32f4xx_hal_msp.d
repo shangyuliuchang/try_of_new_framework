@@ -41,3 +41,4 @@ tryofnewframwork\stm32f4xx_hal_msp.o: ../Inc/dma.h
 tryofnewframwork\stm32f4xx_hal_msp.o: ../Inc/tim.h
 tryofnewframwork\stm32f4xx_hal_msp.o: ../Inc/usart.h
 tryofnewframwork\stm32f4xx_hal_msp.o: ../Inc/gpio.h
+tryofnewframwork\stm32f4xx_hal_msp.o: ../Inc/pid.h

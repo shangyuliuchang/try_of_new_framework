@@ -41,3 +41,4 @@ tryofnewframwork\cantask.o: ../Inc/dma.h
 tryofnewframwork\cantask.o: ../Inc/tim.h
 tryofnewframwork\cantask.o: ../Inc/usart.h
 tryofnewframwork\cantask.o: ../Inc/gpio.h
+tryofnewframwork\cantask.o: ../Inc/pid.h

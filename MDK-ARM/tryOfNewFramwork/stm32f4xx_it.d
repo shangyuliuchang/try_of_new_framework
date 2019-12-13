@@ -41,4 +41,5 @@ tryofnewframwork\stm32f4xx_it.o: ../Inc/dma.h
 tryofnewframwork\stm32f4xx_it.o: ../Inc/tim.h
 tryofnewframwork\stm32f4xx_it.o: ../Inc/usart.h
 tryofnewframwork\stm32f4xx_it.o: ../Inc/gpio.h
+tryofnewframwork\stm32f4xx_it.o: ../Inc/pid.h
 tryofnewframwork\stm32f4xx_it.o: ../Inc/stm32f4xx_it.h

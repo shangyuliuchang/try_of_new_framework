@@ -1,4 +1,6 @@
 --cpu Cortex-M4.fp
+"tryofnewframwork\startup_stm32f427xx.o"
+"tryofnewframwork\cantask.o"
 "tryofnewframwork\main.o"
 "tryofnewframwork\gpio.o"
 "tryofnewframwork\adc.o"
@@ -8,7 +10,7 @@
 "tryofnewframwork\usart.o"
 "tryofnewframwork\stm32f4xx_it.o"
 "tryofnewframwork\stm32f4xx_hal_msp.o"
-"tryofnewframwork\startup_stm32f427xx.o"
+"tryofnewframwork\pid.o"
 "tryofnewframwork\system_stm32f4xx.o"
 "tryofnewframwork\stm32f4xx_hal_adc.o"
 "tryofnewframwork\stm32f4xx_hal_adc_ex.o"
